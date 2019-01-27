@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1548564892338.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "128EE79E",
+    "lastKnownWriteTime" : 1538851040,
+    "last_content_update" : 1538851040,
+    "path" : "~/Documents/School/Spring_2019/Research/Brownbag/brownbag/skew.R",
+    "project_path" : "brownbag/skew.R",
+    "properties" : {
+        "cursorPosition" : "95,4",
+        "scrollLine" : "55"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
