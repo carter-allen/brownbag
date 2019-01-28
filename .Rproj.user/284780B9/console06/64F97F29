@@ -19,3 +19,105 @@ Branch master set up to track remote branch master from origin.
 [?2004h]0;fish  /Users/carter/Documents/School/Spring_2019/Research/Brownbag[30m(B[m[38;5;237m⏎(B[m                                                                                                             ⏎ [2Kcarter@Carters-MacBook-Pro [32m~/D/S/S/R/Brownbag[30m(B[m> [K[7m^C[30m(B[m[K
 [Acarter@Carters-MacBook-Pro [32m~/D/S/S/R/Brownbag[30m(B[m> [K
 [K[A[47C]0;fish  /Users/carter/Documents/School/Spring_2019/Research/Brownbag[30m(B[mcarter@Carters-MacBook-Pro [32m~/D/S/S/R/Brownbag[30m(B[m> [Kg[38;5;240mit push -u origin master[24D[30m(B[m[91mg[38;5;240mit push -u origin master[24D[30m(B[m[91mi[38;5;240mt push -u origin master[23D[30m(B[m[91mt[38;5;240m push -u origin master[22D[30m(B[m[1mgit(B[m[38;5;240m push -u origin master[22D[30m(B[m[1m (B[m[38;5;240mpush -u origin master[21D[30m(B[m [38;5;240mpush -u origin master[21D[30m(B[ma[K[38;5;240mdd README.md[12D[30m(B[m[36ma[38;5;240mdd README.md[12D[30m(B[m[36md[38;5;240md README.md[11D[30m(B[m[36md[38;5;240m README.md[10D[30m(B[m[36ml[30m(B[m[K[K[36m [30m(B[m[38;5;240mREADME.md[9D[30m(B[m [38;5;240mREADME.md[9D[30m(B[m-[K[38;5;240mA[30m(B[m[36m-[38;5;240mA[30m(B[m[36mA[30m(B[m
+[30m(B[m[?2004l]0;git  /Users/carter/Documents/School/Spring_2019/Research/Brownbag[30m(B[m[?2004h]0;fish  /Users/carter/Documents/School/Spring_2019/Research/Brownbag[30m(B[m[38;5;237m⏎(B[m                                                                                                             ⏎ [2Kcarter@Carters-MacBook-Pro [32m~/D/S/S/R/Brownbag[30m(B[m> [Kg[91mg[30m(B[m[38;5;240mit add -A[9D[30m(B[m[91mi[38;5;240mt add -A[30m(B[m[91mt[38;5;240m add -A[30m(B[m[1mgit(B[m[38;5;240m add -A[30m(B[m[1m (B[m[38;5;240madd -A[30m(B[m [38;5;240madd -A[30m(B[mc[K[38;5;240mommit -m "first commit"[23D[30m(B[m[36mc[38;5;240mommit -m "first commit"[23D[30m(B[m[36mo[38;5;240mmmit -m "first commit"[22D[30m(B[m[36mm[38;5;240mmit -m "first commit"[21D[30m(B[m[36mmit -m "first commit"[30m(B[m[18D [36m-m[30m(B[m [33m"first commit"[30m(B[m
+[30m(B[m[?2004l]0;git  /Users/carter/Documents/School/Spring_2019/Research/Brownbag[30m(B[m[master f96af9d] first commit
+ 42 files changed, 1610 insertions(+)
+ create mode 100644 .Rhistory
+ create mode 100644 .Rproj.user/284780B9/console06/64F97F29
+ create mode 100644 .Rproj.user/284780B9/console06/INDEX001
+ create mode 100644 .Rproj.user/284780B9/pcs/files-pane.pper
+ create mode 100644 .Rproj.user/284780B9/pcs/source-pane.pper
+ create mode 100644 .Rproj.user/284780B9/pcs/windowlayoutstate.pper
+ create mode 100644 .Rproj.user/284780B9/pcs/workbench-pane.pper
+ create mode 100644 .Rproj.user/284780B9/rmd-outputs
+ create mode 100644 .Rproj.user/284780B9/saved_source_markers
+ create mode 100644 .Rproj.user/284780B9/sources/prop/1951898
+ create mode 100644 .Rproj.user/284780B9/sources/prop/2F4FA0D1
+ create mode 100644 .Rproj.user/284780B9/sources/prop/5E3E76A0
+ create mode 100644 .Rproj.user/284780B9/sources/prop/9F015ED5
+ create mode 100644 .Rproj.user/284780B9/sources/prop/B78CC30
+ create mode 100644 .Rproj.user/284780B9/sources/prop/CF0D40E3
+ create mode 100644 .Rproj.user/284780B9/sources/prop/D3826F0A
+ create mode 100644 .Rproj.user/284780B9/sources/prop/F073A892
+ create mode 100644 .Rproj.user/284780B9/sources/prop/INDEX
+ create mode 100644 .Rproj.user/284780B9/sources/s-3DB898C8/128EE79E
+ create mode 100644 .Rproj.user/284780B9/sources/s-3DB898C8/128EE79E-contents
+ create mode 100644 .Rproj.user/284780B9/sources/s-3DB898C8/2A44033F-contents
+ create mode 100644 .Rproj.user/284780B9/sources/s-3DB898C8/382A8BA7-contents
+ create mode 100644 .Rproj.user/284780B9/sources/s-3DB898C8/6B30679F-contents
+ create mode 100644 .Rproj.user/284780B9/sources/s-3DB898C8/9A36E054
+ create mode 100644 .Rproj.user/284780B9/sources/s-3DB898C8/9A36E054-contents
+ create mode 100644 .Rproj.user/284780B9/sources/s-3DB898C8/9B039598
+ create mode 100644 .Rproj.user/284780B9/sources/s-3DB898C8/9B039598-contents
+ create mode 100644 .Rproj.user/284780B9/sources/s-3DB898C8/B3BA7AAB
+ create mode 100644 .Rproj.user/284780B9/sources/s-3DB898C8/B3BA7AAB-contents
+ create mode 100644 .Rproj.user/284780B9/sources/s-3DB898C8/C5FE90A3-contents
+ create mode 100644 .Rproj.user/284780B9/sources/s-3DB898C8/CC006A26-contents
+ create mode 100644 .Rproj.user/284780B9/sources/s-3DB898C8/lock_file
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names
+ create mode 100644 .Rproj.user/shared/notebooks/paths
+ create mode 100644 Brownbag.Rproj
+ create mode 100644 README.html
+ create mode 100644 brownbag/app.R
+ create mode 100644 brownbag/parks.R
+ create mode 100644 brownbag/skew.R
+ create mode 100644 brownbag/test.csv
+ create mode 100644 slides.key
+[?2004h]0;fish  /Users/carter/Documents/School/Spring_2019/Research/Brownbag[30m(B[m[38;5;237m⏎(B[m                                                                                                             ⏎ [2Kcarter@Carters-MacBook-Pro [32m~/D/S/S/R/Brownbag[30m(B[m> [Kg[91mg[30m(B[m[38;5;240mit commit -m "first commit"[27D[30m(B[m[91mi[38;5;240mt commit -m "first commit"[26D[30m(B[m[91mt[38;5;240m commit -m "first commit"[25D[30m(B[m[1mgit(B[m[38;5;240m commit -m "first commit"[25D[30m(B[m[1m (B[m[38;5;240mcommit -m "first commit"[24D[30m(B[m [38;5;240mcommit -m "first commit"[24D[30m(B[mo[K[36mo[30m(B[m[36mu[30m(B[m[K[Kp[38;5;240mush -u origin master[20D[30m(B[m[36mp[38;5;240mush -u origin master[20D[30m(B[m[36mu[38;5;240msh -u origin master[19D[30m(B[m[36ms[38;5;240mh -u origin master[18D[30m(B[m[36mh[38;5;240m -u origin master[17D[30m(B[m[36m [38;5;240m-u origin master[16D[30m(B[m [38;5;240m-u origin master[16D[30m(B[m-u origin master[16D[36m-u[30m(B[m [36morigin[30m(B[m [36mmaster[30m(B[m[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K
+[30m(B[m[?2004l]0;git  /Users/carter/Documents/School/Spring_2019/Research/Brownbag[30m(B[mCounting objects: 46, done.
+Delta compression using up to 8 threads.
+Compressing objects:   2% (1/40)   Compressing objects:   5% (2/40)   Compressing objects:   7% (3/40)   Compressing objects:  10% (4/40)   Compressing objects:  12% (5/40)   Compressing objects:  15% (6/40)   Compressing objects:  17% (7/40)   Compressing objects:  20% (8/40)   Compressing objects:  22% (9/40)   Compressing objects:  25% (10/40)   Compressing objects:  27% (11/40)   Compressing objects:  30% (12/40)   Compressing objects:  32% (13/40)   Compressing objects:  35% (14/40)   Compressing objects:  37% (15/40)   Compressing objects:  40% (16/40)   Compressing objects:  42% (17/40)   Compressing objects:  45% (18/40)   Compressing objects:  47% (19/40)   Compressing objects:  50% (20/40)   Compressing objects:  52% (21/40)   Compressing objects:  55% (22/40)   Compressing objects:  57% (23/40)   Compressing objects:  60% (24/40)   Compressing objects:  62% (25/40)   Compressing objects:  65% (26/40)   Compressing objects:  67% (27/40)   Compressing objects:  70% (28/40)   Compressing objects:  72% (29/40)   Compressing objects:  75% (30/40)   Compressing objects:  77% (31/40)   Compressing objects:  80% (32/40)   Compressing objects:  82% (33/40)   Compressing objects:  85% (34/40)   Compressing objects:  87% (35/40)   Compressing objects:  90% (36/40)   Compressing objects:  92% (37/40)   Compressing objects:  95% (38/40)   Compressing objects:  97% (39/40)   Compressing objects: 100% (40/40)   Compressing objects: 100% (40/40), done.
+Writing objects:   2% (1/46)   Writing objects:   4% (2/46)   Writing objects:   6% (3/46)   Writing objects:   8% (4/46)   Writing objects:  10% (5/46)   Writing objects:  13% (6/46)   Writing objects:  15% (7/46)   Writing objects:  17% (8/46)   Writing objects:  19% (9/46)   Writing objects:  21% (10/46)   Writing objects:  23% (11/46)   Writing objects:  26% (12/46)   Writing objects:  28% (13/46)   Writing objects:  30% (14/46)   Writing objects:  32% (15/46)   Writing objects:  34% (16/46)   Writing objects:  36% (17/46)   Writing objects:  39% (18/46)   Writing objects:  41% (19/46)   Writing objects:  43% (20/46)   Writing objects:  45% (21/46)   Writing objects:  47% (22/46)   Writing objects:  50% (23/46)   Writing objects:  52% (24/46)   Writing objects:  54% (25/46)   Writing objects:  56% (26/46)   Writing objects:  58% (27/46)   Writing objects:  60% (28/46)   Writing objects:  63% (29/46)   Writing objects:  67% (31/46)   Writing objects:  71% (33/46)   Writing objects:  73% (34/46)   Writing objects:  76% (35/46)   Writing objects:  78% (36/46)   Writing objects:  80% (37/46)   Writing objects:  82% (38/46)   Writing objects:  84% (39/46)   Writing objects:  86% (40/46)   Writing objects:  89% (41/46)   Writing objects:  91% (42/46)   Writing objects:  93% (43/46)   Writing objects:  95% (44/46)   Writing objects:  97% (45/46)   Writing objects:  97% (45/46), 1.07 MiB | 151.00 KiB/s   Writing objects:  97% (45/46), 1.44 MiB | 171.00 KiB/s   Writing objects:  97% (45/46), 1.63 MiB | 178.00 KiB/s   Writing objects:  97% (45/46), 2.00 MiB | 192.00 KiB/s   Writing objects:  97% (45/46), 2.13 MiB | 194.00 KiB/s   Writing objects:  97% (45/46), 2.50 MiB | 204.00 KiB/s   Writing objects:  97% (45/46), 2.69 MiB | 273.00 KiB/s   Writing objects:  97% (45/46), 2.87 MiB | 274.00 KiB/s   Writing objects:  97% (45/46), 3.19 MiB | 273.00 KiB/s   Writing objects:  97% (45/46), 3.37 MiB | 266.00 KiB/s   Writing objects:  97% (45/46), 3.63 MiB | 260.00 KiB/s   Writing objects:  97% (45/46), 3.94 MiB | 254.00 KiB/s   Writing objects:  97% (45/46), 4.12 MiB | 257.00 KiB/s   Writing objects:  97% (45/46), 4.44 MiB | 255.00 KiB/s   Writing objects:  97% (45/46), 4.75 MiB | 258.00 KiB/s   Writing objects:  97% (45/46), 4.94 MiB | 271.00 KiB/s   Writing objects:  97% (45/46), 5.25 MiB | 275.00 KiB/s   Writing objects:  97% (45/46), 5.56 MiB | 272.00 KiB/s   Writing objects:  97% (45/46), 5.75 MiB | 280.00 KiB/s   Writing objects:  97% (45/46), 6.06 MiB | 277.00 KiB/s   Writing objects: 100% (46/46), 6.06 MiB | 277.00 KiB/s   Writing objects: 100% (46/46), 6.13 MiB | 237.00 KiB/s, done.
+Total 46 (delta 5), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/5)   [Kremote: Resolving deltas:  60% (3/5)   [Kremote: Resolving deltas: 100% (5/5)   [Kremote: Resolving deltas: 100% (5/5), done.[K
+To https://github.com/carter-allen/brownbag.git
+   543e2b0..f96af9d  master -> master
+[?2004h]0;fish  /Users/carter/Documents/School/Spring_2019/Research/Brownbag[30m(B[m[38;5;237m⏎(B[m                                                                                                             ⏎ [2Kcarter@Carters-MacBook-Pro [32m~/D/S/S/R/Brownbag[30m(B[m> [K[7m^C[30m(B[m[K
+[Acarter@Carters-MacBook-Pro [32m~/D/S/S/R/Brownbag[30m(B[m> [K
+[K[A[47C]0;fish  /Users/carter/Documents/School/Spring_2019/Research/Brownbag[30m(B[mcarter@Carters-MacBook-Pro [32m~/D/S/S/R/Brownbag[30m(B[m> [K]0;fish  /Users/carter/Documents/School/Spring_2019/Research/Brownbag[30m(B[mWelcome to fish, the friendly interactive shell
+g[91mg[30m(B[m[38;5;240mit push[30m(B[m[91me[30m(B[m[K[38;5;240mm [30m(B[m[91mt[30m(B[m[K[38;5;240mconf [30m(B[m[91m [30m(B[m[K s[36m[4ms[30m(B[m[38;5;240mlides.key [10D[30m(B[m[36m[4mt[30m(B[m[K[36mst[30m(B[m[K[36m[4ms[30m(B[m[K[K[K[K[91mi[30m(B[m[38;5;240mt push[30m(B[m[91mt[38;5;240m push[30m(B[m[1mgit(B[m[38;5;240m push[30m(B[m[1m (B[m[38;5;240mpush[30m(B[m [38;5;240mpush[30m(B[ms[K[36m[4ms[30m(B[m[38;5;240mtatus[30m(B[m[36m[4mt[38;5;240m[24matus[30m(B[m[36mst[38;5;240matus[30m(B[m[36matus[30m(B[m
+[30m(B[m[?2004l]0;git  /Users/carter/Documents/School/Spring_2019/Research/Brownbag[30m(B[mOn branch master
+Your branch is up-to-date with 'origin/master'.
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   .Rhistory[m
+	[31mmodified:   .Rproj.user/284780B9/console06/64F97F29[m
+	[31mmodified:   .Rproj.user/284780B9/console06/INDEX001[m
+	[31mmodified:   .Rproj.user/284780B9/pcs/files-pane.pper[m
+	[31mmodified:   .Rproj.user/284780B9/pcs/source-pane.pper[m
+	[31mmodified:   .Rproj.user/284780B9/pcs/windowlayoutstate.pper[m
+	[31mmodified:   .Rproj.user/284780B9/pcs/workbench-pane.pper[m
+	[31mmodified:   .Rproj.user/284780B9/rmd-outputs[m
+	[31mmodified:   .Rproj.user/284780B9/sources/prop/1951898[m
+	[31mmodified:   .Rproj.user/284780B9/sources/prop/2F4FA0D1[m
+	[31mmodified:   .Rproj.user/284780B9/sources/prop/F073A892[m
+	[31mmodified:   .Rproj.user/284780B9/sources/prop/INDEX[m
+	[31mdeleted:    .Rproj.user/284780B9/sources/s-3DB898C8/128EE79E[m
+	[31mdeleted:    .Rproj.user/284780B9/sources/s-3DB898C8/128EE79E-contents[m
+	[31mdeleted:    .Rproj.user/284780B9/sources/s-3DB898C8/2A44033F-contents[m
+	[31mdeleted:    .Rproj.user/284780B9/sources/s-3DB898C8/382A8BA7-contents[m
+	[31mdeleted:    .Rproj.user/284780B9/sources/s-3DB898C8/6B30679F-contents[m
+	[31mdeleted:    .Rproj.user/284780B9/sources/s-3DB898C8/9A36E054[m
+	[31mdeleted:    .Rproj.user/284780B9/sources/s-3DB898C8/9A36E054-contents[m
+	[31mdeleted:    .Rproj.user/284780B9/sources/s-3DB898C8/9B039598[m
+	[31mdeleted:    .Rproj.user/284780B9/sources/s-3DB898C8/9B039598-contents[m
+	[31mdeleted:    .Rproj.user/284780B9/sources/s-3DB898C8/B3BA7AAB[m
+	[31mdeleted:    .Rproj.user/284780B9/sources/s-3DB898C8/B3BA7AAB-contents[m
+	[31mdeleted:    .Rproj.user/284780B9/sources/s-3DB898C8/C5FE90A3-contents[m
+	[31mdeleted:    .Rproj.user/284780B9/sources/s-3DB898C8/CC006A26-contents[m
+	[31mdeleted:    .Rproj.user/284780B9/sources/s-3DB898C8/lock_file[m
+	[31mmodified:   .Rproj.user/shared/notebooks/paths[m
+	[31mmodified:   README.md[m
+	[31mmodified:   slides.key[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31m.gitignore[m
+	[31mbeta_app/[m
+	[31mslides.pdf[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[?2004h]0;fish  /Users/carter/Documents/School/Spring_2019/Research/Brownbag[30m(B[m[38;5;237m⏎(B[m                                                                                                             ⏎ [2Kcarter@Carters-MBP [32m~/D/S/S/R/Brownbag[30m(B[m> [Kg[91mg[30m(B[m[38;5;240mit status[9D[30m(B[m[91mi[38;5;240mt status[30m(B[m[91mt[38;5;240m status[30m(B[m[1mgit(B[m[38;5;240m status[30m(B[m[1m (B[m[38;5;240mstatus[30m(B[m [38;5;240mstatus[30m(B[ma[K[38;5;240mdd -A[30m(B[m[36ma[38;5;240mdd -A[30m(B[m[36md[38;5;240md -A[30m(B[m[36md -A[30m(B[m [36m-A[30m(B[m

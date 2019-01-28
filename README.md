@@ -1,9 +1,10 @@
 # brownbag
 
 ## Talk materials
-- [Slides]()
+- [Slides](slides.pdf)
 - [Miami Parks App](brownbag/parks.R)
 - [Bayesian Skew Normal Test](brownbag/skew.R)
+- [Bayesian success probability app](beta_app/app.R)
 
 ## Installing Shiny
 

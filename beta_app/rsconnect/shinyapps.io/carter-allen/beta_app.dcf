@@ -1,0 +1,12 @@
+name: beta_app
+title: beta_app
+username:
+account: carter-allen
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 671313
+bundleId: 1842029
+url: https://carter-allen.shinyapps.io/beta_app/
+when: 1548704024.67506
+asMultiple: FALSE
+asStatic: FALSE
