@@ -377,15 +377,22 @@ $(document).ready(function () {
 <div id="talk-materials" class="section level2">
 <h2>Talk materials</h2>
 <ul>
-<li><a href>Slides</a></li>
+<li><a href="slides.pdf">Slides</a></li>
 <li><a href="brownbag/parks.R">Miami Parks App</a></li>
 <li><a href="brownbag/skew.R">Bayesian Skew Normal Test</a></li>
+<li><a href="beta_app/app.R">Bayesian success probability app</a></li>
 </ul>
 </div>
 <div id="installing-shiny" class="section level2">
 <h2>Installing Shiny</h2>
 <pre><code>install.packages(&quot;shiny&quot;)
 library(shiny)</code></pre>
+</div>
+<div id="installing-betar" class="section level2">
+<h2>Installing betaR</h2>
+<p>The <code>betaR</code> package was used in the live coding session to plot the density of a beta distribution. We used the <code>dbeta_plot()</code> function for this. The package is currently hosted on github and can be downloaded with the following <code>R</code> commands.</p>
+<pre><code>library(devtools)
+install_github(&quot;carter-allen/betaR&quot;)</code></pre>
 </div>
 <div id="shiny-documentation" class="section level2">
 <h2>Shiny Documentation</h2>

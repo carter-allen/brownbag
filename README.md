@@ -13,6 +13,15 @@ install.packages("shiny")
 library(shiny)
 ```
 
+## Installing betaR
+
+The `betaR` package was used in the live coding session to plot the density of a beta distribution. We used the `dbeta_plot()` function for this. The package is currently hosted on github and can be downloaded with the following `R` commands.
+
+```
+library(devtools)
+install_github("carter-allen/betaR")
+```
+
 ## Shiny Documentation
 - [Shiny](https://shiny.rstudio.com/)
 - [Gallery](https://shiny.rstudio.com/gallery/)
